@@ -1,0 +1,31 @@
+body {
+    background-color: #5ac1f9;
+    font-family: Arial, sans-serif;
+}
+
+#galeria {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 20px;
+}
+
+.card {
+    background: #fff;
+    padding: 10px;
+    border-radius: 16px;
+}
+
+.card-cover {
+    width: 100%;
+    height: auto;
+}
+
+.card-title {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.card-description {
+    font-size: 16px;
+}

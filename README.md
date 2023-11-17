@@ -13,4 +13,4 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Detalhes do projeto
 
-Projeto criado para compreesnção de JavaScript com HTML e CSS.
+Projeto criado para compreensão de JavaScript com HTML e CSS.
